@@ -1,4 +1,5 @@
 matplotlib==3.3.2
 numpy==1.18.5
 voila==0.2.4
+ipympl==0.5.8
 voila-osscar-template==0.2.8
